@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Boldcodes
 - 👀 I’m interested in Datascience
-- 🌱 I’m currently doing my first project in Datascience
+- 🌱 I've done personal projects in Datascience
 - 💞️ I’m looking to collaborate with anyone on interesting projects
 - 📫 How to reach me, Email: ajiboduemmanuel97@gmail.com
 
